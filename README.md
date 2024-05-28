@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [![Outlook](https://img.shields.io/badge/Tianxiang_Zhan-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:zhantianxianguestc@hotmail.com)
 
-- 📄 Know about my experiences ![ResearchGate](https://img.shields.io/badge/Tianxiang_Zhan-00CCBB?logo=ResearchGate&logoColor=white)
+- 📄 Know about my experiences [![Google Scholar](https://img.shields.io/badge/Tianxiang_Zhan-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com.hk/citations?user=bRYz250AAAAJ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
