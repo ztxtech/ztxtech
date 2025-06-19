@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ztxtech" alt="ztxtech" /></a> </p>
 
-- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/ztxtech-Time_Evidence_Fusion_Network-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/Time-Evidence-Fusion-Network) [![arxiv](https://img.shields.io/badge/cs.LG-2405.06419-b31b1b?style=flat&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2405.06419)
-
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Graph_Theory-3670A0)
+- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/ztxtech-cep_ts-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/cep_ts) [![arxiv](https://img.shields.io/badge/cs.LG-2506.14790-b31b1b?style=flat&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2506.14790)
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/IELTS-3670A0) [![GitHub](https://img.shields.io/badge/ztxtech-My_IELTS_subjective-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/My-IELTS-subjective)
 
 - 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/ztxtech-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech)
 
