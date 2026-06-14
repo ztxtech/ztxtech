@@ -52,6 +52,7 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`84cf940`](https://github.com/ztxtech/aion/commit/84cf940fa4424d431feb5aa05969ed403c570a18) — v0.5.0 docs + session-start question enforcement fix _(_ztxtech, 2026-06-14_)_
 - [`ee47c65`](https://github.com/ztxtech/aion/commit/ee47c6531ef210a27584bd3ff1e0a7f0c5d4be0f) — v0.5.0: Hugging Face datasets integration + ablation/SHAP hard gates _(_ztxtech, 2026-06-14_)_
 - [`1dd62ed`](https://github.com/ztxtech/aion/commit/1dd62ed282788f8680199fd6fecb51ffa6d5bea0) — Fix install.sh: handle GitHub API rate-limit on /releases/latest _(_ztxtech, 2026-06-14_)_
 - [`78de9e2`](https://github.com/ztxtech/aion/commit/78de9e211de091698fbf7776543e43bed24d45ab) — v0.4.0: mandatory statistical analysis, language selection, coder two-phase dev _(_ztxtech, 2026-06-14_)_
@@ -59,7 +60,6 @@ mission:     >-
 - [`1d61e35`](https://github.com/ztxtech/aion/commit/1d61e353b2f9612fc6b6622259ef13f09b22bb0b) — Add per-round feedback analysis: positive/negative memory updates + info-collect _(_ztxtech, 2026-06-14_)_
 - [`6aa513a`](https://github.com/ztxtech/aion/commit/6aa513acb7f436afffdfa50bf0a609233833df63) — Add uninstall script, update READMEs to remove hardcoded model references _(_ztxtech, 2026-06-14_)_
 - [`5760fc5`](https://github.com/ztxtech/aion/commit/5760fc547c7dd1aa7824a5ef175e1cba5e9c07c1) — Remove hardcoded model, fix install upgrade prompt, add comprehensive unit tests _(_ztxtech, 2026-06-14_)_
-- [`0ec5b8e`](https://github.com/ztxtech/aion/commit/0ec5b8e8ceb0b95ff5acbd1fe42ea2b5dacdc431) — Auto-detect model from global OpenCode config instead of hardcoding _(_ztxtech, 2026-06-14_)_
 <!-- AION-COMMITS:END -->
 
 </details>
