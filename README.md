@@ -28,8 +28,7 @@ mission:     >-
   complex temporal evidence — with explicit uncertainty and stop-discipline.
 ```
 
-> 🔭 Just defended my Master's thesis on **Continuous Evolution Pool** and **AION**.
-> Now joining **Monash IT** as a **PhD student** to push **agentic time-series systems**
+> 🔭 Now at **Monash IT** as a PhD student, pushing **agentic time-series systems**
 > and **uncertainty-aware decision making** further.
 
 ---
