@@ -27,12 +27,9 @@ jobs:
           committer_message: "chore(metrics): refresh github-metrics.svg [skip ci]"
           user: ztxtech
           template: classic
-          base: header
+          base: "header, metadata"
           config_timezone: Australia/Melbourne
           config_animations: yes
           config_output: svg
           filename: docs/github-metrics.svg
-          plugin_languages: yes
-          plugin_followup: yes
-          plugin_topics: yes
           optimize: yes
