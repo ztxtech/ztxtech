@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Tianxiang Zhan**
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&height=50&lines=PhD%20%40%20Monash%20IT;Building%20Time-Series%20Harness;Agent%20%C3%97%20Uncertainty%20%C3%97%20Time" alt="Typing SVG" />
+
+# 👋 Hi, I'm **Tianxiang Zhan**
 
 <a href="https://scholar.google.com/citations?user=bRYz250AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 <a href="https://orcid.org/0000-0002-5188-0381"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
@@ -36,15 +36,15 @@ mission:     >-
 ## ⚡ Live Signals (auto-refreshed by GitHub Actions)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/output/dist/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/output/dist/github-contribution-grid-snake.svg" width="100%" alt="snake gif" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/master/docs/github-metrics.svg" alt="github metrics" />
+  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/master/docs/github-metrics.svg" width="100%" alt="github metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ztxtech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ztxtech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
 </p>
 
 <details>
