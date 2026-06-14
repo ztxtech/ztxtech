@@ -1,0 +1,54 @@
+name: 📡 aion latest commits
+on:
+  schedule: [{ cron: "*/30 * * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { token: ${{ secrets.GITHUB_TOKEN }} }
+
+      - name: Fetch latest aion@dev commits
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p .github/aion-commits
+          gh api \
+            "repos/ztxtech/aion/commits?sha=dev&per_page=8" \
+            > .github/aion-commits/commits.json
+
+      - name: Render commits block
+        run: |
+          python3 - <<'PY'
+          import json, datetime, pathlib
+          data = json.loads(pathlib.Path(".github/aion-commits/commits.json").read_text())
+          lines = []
+          for c in data[:8]:
+              sha = c["sha"][:7]
+              msg = c["commit"]["message"].splitlines()[0][:80]
+              author = c["commit"]["author"]["name"]
+              date = c["commit"]["author"]["date"][:10]
+              url = c["html_url"]
+              lines.append(f"- [`{sha}`]({url}) — {msg} _(_{author}, {date}_)_")
+          block = "\n".join(lines)
+          readme = pathlib.Path("README.md").read_text()
+          start = "<!-- AION-COMMITS:START -->"
+          end   = "<!-- AION-COMMITS:END -->"
+          readme = readme.replace(start, start + "\n" + block + "\n ")
+          pathlib.Path("README.md").write_text(readme)
+          print("Updated aion commits block")
+          PY
+
+      - name: Commit README
+        run: |
+          git config user.name "ztxtech-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(aion): sync latest commits from dev" || echo "no changes"
+          git push

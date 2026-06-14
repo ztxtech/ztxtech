@@ -1,0 +1,36 @@
+name: 🐍 snake + quote
+on:
+  schedule: [{ cron: "0 */4 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution snake 🐍
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ztxtech
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif
+            dist/ocean-dark.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stitch snake into README
+        run: |
+          # snake gif is what we surface; svg is the alt
+          ls -la dist/ || true
+          git config user.name "ztxtech-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(snake): regenerate contribution snake" || echo "no changes"
+          git push
