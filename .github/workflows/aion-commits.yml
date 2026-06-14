@@ -1,8 +1,10 @@
 name: 📡 aion latest commits
 on:
-  schedule: [{ cron: "*/30 * * * *" }]
+  schedule:
+    - cron: "*/30 * * * *"
   workflow_dispatch:
-  push: { branches: [main] }
+  push:
+    branches: [master]
 
 permissions:
   contents: write
@@ -12,21 +14,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with: { token: ${{ secrets.GITHUB_TOKEN }} }
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch latest aion@dev commits
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p .github/aion-commits
-          gh api \
-            "repos/ztxtech/aion/commits?sha=dev&per_page=8" \
+          gh api "repos/ztxtech/aion/commits?sha=dev&per_page=8" \
             > .github/aion-commits/commits.json
 
       - name: Render commits block
         run: |
           python3 - <<'PY'
-          import json, datetime, pathlib
+          import json, pathlib
           data = json.loads(pathlib.Path(".github/aion-commits/commits.json").read_text())
           lines = []
           for c in data[:8]:
@@ -36,11 +38,14 @@ jobs:
               date = c["commit"]["author"]["date"][:10]
               url = c["html_url"]
               lines.append(f"- [`{sha}`]({url}) — {msg} _(_{author}, {date}_)_")
-          block = "\n".join(lines)
+          block = "\n".join(lines) if lines else "_No commits fetched yet._"
           readme = pathlib.Path("README.md").read_text()
           start = "<!-- AION-COMMITS:START -->"
           end   = "<!-- AION-COMMITS:END -->"
-          readme = readme.replace(start, start + "\n" + block + "\n ")
+          if start in readme and end in readme:
+              head, _, tail = readme.partition(start)
+              _, _, tail2   = tail.partition(end)
+              readme = head + start + "\n" + block + "\n" + end + tail2
           pathlib.Path("README.md").write_text(readme)
           print("Updated aion commits block")
           PY
@@ -50,5 +55,5 @@ jobs:
           git config user.name "ztxtech-bot"
           git config user.email "bot@users.noreply.github.com"
           git add README.md
-          git commit -m "chore(aion): sync latest commits from dev" || echo "no changes"
+          git diff --staged --quiet || git commit -m "chore(aion): sync latest commits from dev"
           git push

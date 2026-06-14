@@ -17,7 +17,7 @@
 
 ```yaml
 > whoami
-name:        Tianxiang Zhan (詹天翔)
+name:        Tianxiang Zhan
 role:        PhD Candidate
 affiliation: Monash University — Faculty of Information Technology
 location:    Clayton, VIC 🇦🇺
@@ -44,7 +44,7 @@ mission:     >-
 
 |  |  |
 | :---: | :---: |
-| ![Metrics](https://raw.githubusercontent.com/ztxtech/ztxtech/main/github-metrics.svg) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ztxtech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph) |
+| ![Metrics](https://raw.githubusercontent.com/ztxtech/ztxtech/master/docs/github-metrics.svg) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ztxtech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph) |
 
 </div>
 
@@ -94,23 +94,6 @@ mission:     >-
 > `AGENT × TIME × UNCERTAINTY` — research across three orthogonal axes that
 > intersect in **AION**: build agents that operate on temporal evidence, and
 > ground every claim in calibrated uncertainty.
-
----
-
-## 🏆 Featured Repositories
-
-<div align="center">
-
-| Project | What it is | Stack | Status |
-| :--- | :--- | :---: | :---: |
-| [**aion**](https://github.com/ztxtech/aion/tree/dev) | Time-series harness for next-gen agentic forecasting, reasoning & tool use | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🟢 Active |
-| [**cep_ts**](https://github.com/ztxtech/cep_ts) | Continuous Evolution Pool — taming recurring concept drift online | ![Py](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟡 Stable |
-| [**Time-Evidence-Fusion-Network**](https://github.com/ztxtech/Time-Evidence-Fusion-Network) | IEEE TPAMI 2025 — multi-source long-term forecasting | ![Py](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | 🔵 TPAMI |
-| [**dstz**](https://github.com/ztxtech/dstz) | Dempster–Shafer evidence theory toolkit | ![Py](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟡 Stable |
-| [**ztxexp**](https://github.com/ztxtech/ztxexp) | Reproducible DL / LLM experiment framework | ![Py](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟢 Active |
-| [**mass_cf**](https://github.com/ztxtech/mass_cf) | Central moments of belief information (INS 2025) | ![Py](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔵 INS |
-
-</div>
 
 ---
 

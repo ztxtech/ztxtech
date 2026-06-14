@@ -1,8 +1,10 @@
 name: 🛰️ metrics
 on:
-  schedule: [{ cron: "0 */6 * * *" }]
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-  push: { branches: [main] }
+  push:
+    branches: [master]
 
 permissions:
   contents: write
@@ -11,7 +13,8 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin: details
@@ -35,13 +38,13 @@ jobs:
           wakatime: no
           github: ztxtech
           generated: .github/metrics.svg
-          mock: |
-            { "rows": [{ "name": "agentic time series", "color": "#7C3AED" }] }
-      - run: cp .github/metrics.svg github-metrics.svg
-      - uses: actions/checkout@v4
-      - run: |
+
+      - name: Publish metrics svg
+        run: |
+          mkdir -p docs
+          cp .github/metrics.svg docs/github-metrics.svg
           git config user.name "ztxtech-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add github-metrics.svg
-          git commit -m "chore(metrics): refresh github-metrics.svg" || echo "no changes"
+          git add docs/github-metrics.svg
+          git diff --staged --quiet || git commit -m "chore(metrics): refresh github-metrics.svg"
           git push
