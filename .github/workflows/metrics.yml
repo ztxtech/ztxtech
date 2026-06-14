@@ -35,8 +35,4 @@ jobs:
           plugin_languages: yes
           plugin_followup: yes
           plugin_topics: yes
-          plugin_lines: yes
-          plugin_repositories: yes
-          plugin_isocalendar: yes
           optimize: yes
-          use_prebuilt_image: yes
