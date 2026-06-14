@@ -36,7 +36,7 @@ mission:     >-
 ## ⚡ Live Signals (auto-refreshed by GitHub Actions)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/output/dist/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 <p align="center">
