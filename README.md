@@ -40,13 +40,13 @@ mission:     >-
   <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/master/docs/github-metrics.svg" alt="github metrics" />
+</p>
 
-|  |  |
-| :---: | :---: |
-| ![Metrics](https://raw.githubusercontent.com/ztxtech/ztxtech/master/docs/github-metrics.svg) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ztxtech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph) |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ztxtech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+</p>
 
 <details>
 <summary><b>📡 Latest commits on aion (the harness)</b></summary>
