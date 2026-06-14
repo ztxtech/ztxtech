@@ -52,6 +52,7 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`449f50b`](https://github.com/ztxtech/aion/commit/449f50b2283820d3d0b00e30dff6a41e343bcb11) — v0.5.1: Hard Role Boundaries for main agent + Reception Contracts for leaf worke _(_ztxtech, 2026-06-14_)_
 - [`84cf940`](https://github.com/ztxtech/aion/commit/84cf940fa4424d431feb5aa05969ed403c570a18) — v0.5.0 docs + session-start question enforcement fix _(_ztxtech, 2026-06-14_)_
 - [`ee47c65`](https://github.com/ztxtech/aion/commit/ee47c6531ef210a27584bd3ff1e0a7f0c5d4be0f) — v0.5.0: Hugging Face datasets integration + ablation/SHAP hard gates _(_ztxtech, 2026-06-14_)_
 - [`1dd62ed`](https://github.com/ztxtech/aion/commit/1dd62ed282788f8680199fd6fecb51ffa6d5bea0) — Fix install.sh: handle GitHub API rate-limit on /releases/latest _(_ztxtech, 2026-06-14_)_
@@ -59,7 +60,6 @@ mission:     >-
 - [`2f8b004`](https://github.com/ztxtech/aion/commit/2f8b004cb0be9ba77081d1862b547eac3880faa7) — Upgrade requirements-analyst and report-writing skills _(_ztxtech, 2026-06-14_)_
 - [`1d61e35`](https://github.com/ztxtech/aion/commit/1d61e353b2f9612fc6b6622259ef13f09b22bb0b) — Add per-round feedback analysis: positive/negative memory updates + info-collect _(_ztxtech, 2026-06-14_)_
 - [`6aa513a`](https://github.com/ztxtech/aion/commit/6aa513acb7f436afffdfa50bf0a609233833df63) — Add uninstall script, update READMEs to remove hardcoded model references _(_ztxtech, 2026-06-14_)_
-- [`5760fc5`](https://github.com/ztxtech/aion/commit/5760fc547c7dd1aa7824a5ef175e1cba5e9c07c1) — Remove hardcoded model, fix install upgrade prompt, add comprehensive unit tests _(_ztxtech, 2026-06-14_)_
 <!-- AION-COMMITS:END -->
 
 </details>
