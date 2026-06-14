@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Tianxiang Zhan**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=PhD%20%40%20Monash%20IT%20%E2%9A%96%EF%B8%8F;Building%20Time-Series%20Harness%20%E2%9A%99%EF%B8%8F;Agent%20%C3%97%20Uncertainty%20%C3%97%20Time%20Series" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&height=50&lines=PhD%20%40%20Monash%20IT;Building%20Time-Series%20Harness;Agent%20%C3%97%20Uncertainty%20%C3%97%20Time" alt="Typing SVG" />
 
 <a href="https://scholar.google.com/citations?user=bRYz250AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 <a href="https://orcid.org/0000-0002-5188-0381"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
