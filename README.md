@@ -4,6 +4,10 @@
 
 # 👋 Hi, I'm **Tianxiang Zhan**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/master/docs/github-metrics.svg" width="720" alt="github metrics" />
+</p>
+
 <a href="https://scholar.google.com/citations?user=bRYz250AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 <a href="https://orcid.org/0000-0002-5188-0381"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 <a href="https://dblp.org/pid/289/0349.html"><img src="https://img.shields.io/badge/DBLP-004F9F?style=for-the-badge&logo=dblp&logoColor=white"/></a>
@@ -37,10 +41,6 @@ mission:     >-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/output/dist/github-contribution-grid-snake.svg" width="100%" alt="snake gif" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ztxtech/ztxtech/master/docs/github-metrics.svg" width="100%" alt="github metrics" />
 </p>
 
 <p align="center">
