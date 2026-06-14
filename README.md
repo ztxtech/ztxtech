@@ -53,6 +53,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`1dd62ed`](https://github.com/ztxtech/aion/commit/1dd62ed282788f8680199fd6fecb51ffa6d5bea0) — Fix install.sh: handle GitHub API rate-limit on /releases/latest _(_ztxtech, 2026-06-14_)_
+- [`78de9e2`](https://github.com/ztxtech/aion/commit/78de9e211de091698fbf7776543e43bed24d45ab) — v0.4.0: mandatory statistical analysis, language selection, coder two-phase dev _(_ztxtech, 2026-06-14_)_
+- [`2f8b004`](https://github.com/ztxtech/aion/commit/2f8b004cb0be9ba77081d1862b547eac3880faa7) — Upgrade requirements-analyst and report-writing skills _(_ztxtech, 2026-06-14_)_
+- [`1d61e35`](https://github.com/ztxtech/aion/commit/1d61e353b2f9612fc6b6622259ef13f09b22bb0b) — Add per-round feedback analysis: positive/negative memory updates + info-collect _(_ztxtech, 2026-06-14_)_
+- [`6aa513a`](https://github.com/ztxtech/aion/commit/6aa513acb7f436afffdfa50bf0a609233833df63) — Add uninstall script, update READMEs to remove hardcoded model references _(_ztxtech, 2026-06-14_)_
+- [`5760fc5`](https://github.com/ztxtech/aion/commit/5760fc547c7dd1aa7824a5ef175e1cba5e9c07c1) — Remove hardcoded model, fix install upgrade prompt, add comprehensive unit tests _(_ztxtech, 2026-06-14_)_
+- [`0ec5b8e`](https://github.com/ztxtech/aion/commit/0ec5b8e8ceb0b95ff5acbd1fe42ea2b5dacdc431) — Auto-detect model from global OpenCode config instead of hardcoding _(_ztxtech, 2026-06-14_)_
+- [`acc098a`](https://github.com/ztxtech/aion/commit/acc098adab53127f86794159e6873040c57c4b55) — Bump version to 0.3.0 _(_ztxtech, 2026-06-14_)_
 <!-- AION-COMMITS:END -->
 
 </details>
