@@ -152,6 +152,11 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 (metrics · aion commits · snake · daily quote).*</sub>
 
 <!-- QUOTE-OF-THE-DAY -->
+<!-- quote-of-the-day:2026-06-16 -->
+> 💬 _The dev branch is the only place I tell the truth._
+
+_Last refreshed: 2026-06-16 (Australia/Melbourne)_
+
 <!-- quote-of-the-day:2026-06-15 -->
 > 💬 _Drift is the model's autobiography._
 
