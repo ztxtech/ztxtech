@@ -152,6 +152,11 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 (metrics · aion commits · snake · daily quote).*</sub>
 
 <!-- QUOTE-OF-THE-DAY -->
+<!-- quote-of-the-day:2026-06-19 -->
+> 💬 _Reviewers don't kill papers — unclear papers kill themselves._
+
+_Last refreshed: 2026-06-19 (Australia/Melbourne)_
+
 <!-- quote-of-the-day:2026-06-18 -->
 > 💬 _Make the next agent's job easier. They will be you, tired._
 
