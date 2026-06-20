@@ -46,9 +46,16 @@ jobs:
           pathlib.Path(".github/quote.md").write_text(block)
           readme = pathlib.Path("README.md").read_text()
           anchor = "<!-- QUOTE-OF-THE-DAY -->"
+          footer = '<img src="https://capsule-render.vercel.app/api'
           if anchor in readme:
               pre, _, post = readme.partition(anchor)
-              readme = pre + anchor + "\n" + block + "\n" + post
+              # Keep content up to anchor, then insert new quote, then jump to footer
+              footer_idx = post.find(footer)
+              if footer_idx >= 0:
+                  tail = post[footer_idx:]
+                  readme = pre + anchor + "\n" + block + "\n\n" + tail
+              else:
+                  readme = pre + anchor + "\n" + block + "\n" + post
           pathlib.Path("README.md").write_text(readme)
           print(block)
           PY
@@ -59,4 +66,5 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet || git commit -m "chore(quote): daily quote rotation"
+          git pull --rebase origin master
           git push
