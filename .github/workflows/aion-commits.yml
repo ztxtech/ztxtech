@@ -22,7 +22,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p .github/aion-commits
-          gh api "repos/ztxtech/aion/commits?sha=dev&per_page=8" \
+          gh api "repos/ztxtech/aion/commits?sha=master&per_page=8" \
             > .github/aion-commits/commits.json
 
       - name: Render commits block
