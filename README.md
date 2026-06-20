@@ -52,14 +52,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
-- [`9c55691`](https://github.com/ztxtech/aion/commit/9c556917a30d54e41b6a17cfdaea29eb103213b0) — Merge remote-tracking branch 'origin/master' into dev _(_ztxtech, 2026-06-14_)_
-- [`449f50b`](https://github.com/ztxtech/aion/commit/449f50b2283820d3d0b00e30dff6a41e343bcb11) — v0.5.1: Hard Role Boundaries for main agent + Reception Contracts for leaf worke _(_ztxtech, 2026-06-14_)_
-- [`84cf940`](https://github.com/ztxtech/aion/commit/84cf940fa4424d431feb5aa05969ed403c570a18) — v0.5.0 docs + session-start question enforcement fix _(_ztxtech, 2026-06-14_)_
-- [`ee47c65`](https://github.com/ztxtech/aion/commit/ee47c6531ef210a27584bd3ff1e0a7f0c5d4be0f) — v0.5.0: Hugging Face datasets integration + ablation/SHAP hard gates _(_ztxtech, 2026-06-14_)_
-- [`1dd62ed`](https://github.com/ztxtech/aion/commit/1dd62ed282788f8680199fd6fecb51ffa6d5bea0) — Fix install.sh: handle GitHub API rate-limit on /releases/latest _(_ztxtech, 2026-06-14_)_
-- [`78de9e2`](https://github.com/ztxtech/aion/commit/78de9e211de091698fbf7776543e43bed24d45ab) — v0.4.0: mandatory statistical analysis, language selection, coder two-phase dev _(_ztxtech, 2026-06-14_)_
-- [`2f8b004`](https://github.com/ztxtech/aion/commit/2f8b004cb0be9ba77081d1862b547eac3880faa7) — Upgrade requirements-analyst and report-writing skills _(_ztxtech, 2026-06-14_)_
-- [`1d61e35`](https://github.com/ztxtech/aion/commit/1d61e353b2f9612fc6b6622259ef13f09b22bb0b) — Add per-round feedback analysis: positive/negative memory updates + info-collect _(_ztxtech, 2026-06-14_)_
+- [`6af5157`](https://github.com/ztxtech/aion/commit/6af5157e9590955fc1e366ad400b944705f92061) — docs(readme): link to oc-conf branch for legacy Markdown config _(_ztxtech, 2026-06-20_)_
+- [`871a9e5`](https://github.com/ztxtech/aion/commit/871a9e502f84cf98da944f1c579ceb36939c2bca) — fix(tests): adapt critic dispatch tests to string instructions format _(_ztxtech, 2026-06-18_)_
+- [`5639007`](https://github.com/ztxtech/aion/commit/5639007151a3777bd2b9d36ab1fd3a8860f512d2) — docs(devnotes): add commit entry for v0.7.3 skill tool change _(_ztxtech, 2026-06-18_)_
+- [`7ed830f`](https://github.com/ztxtech/aion/commit/7ed830f1de7d7ca6bbf135765dc50c80df8ca6b7) — chore(release): bump to v0.7.3 _(_ztxtech, 2026-06-18_)_
+- [`79a88a1`](https://github.com/ztxtech/aion/commit/79a88a16658bd2d458d8fa92dd947663b3cae785) — feat(agents): grant skill tool to subagents for on-demand loading _(_ztxtech, 2026-06-18_)_
+- [`a3fd4c3`](https://github.com/ztxtech/aion/commit/a3fd4c3fb7fc069bf4bcae7d299a7363f4cc3ea3) — docs(readme): remove v0.7.2 news entry _(_ztxtech, 2026-06-18_)_
+- [`639beb4`](https://github.com/ztxtech/aion/commit/639beb4dbf706b3ef67cd78075e9d6ddb87c7327) — docs(devnotes): add commit entries for v0.7.0–v0.7.2 releases _(_ztxtech, 2026-06-18_)_
+- [`30ff2c4`](https://github.com/ztxtech/aion/commit/30ff2c46343af82192a73bd1ae772625f4372c4a) — chore(release): bump to v0.7.2 _(_ztxtech, 2026-06-18_)_
 <!-- AION-COMMITS:END -->
 
 </details>
