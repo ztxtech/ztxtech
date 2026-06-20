@@ -104,12 +104,6 @@ mission:     >-
 
 ---
 
-## 📜 Publications
-
-> 📚 Full list (TPAMI / FSS / CSF / TFS / arXiv preprints, with CCF ratings) lives
-> at **[ztxtech.github.io/#-publications](https://ztxtech.github.io/#-publications)**.
-
----
 
 ## 🧰 Stack (2026 edition)
 
@@ -156,37 +150,6 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 > 💬 _An evidence theory that can't be falsified is a vibe._
 
 _Last refreshed: 2026-06-20 (Australia/Melbourne)_
-
-<!-- quote-of-the-day:2026-06-19 -->
-> 💬 _Reviewers don't kill papers — unclear papers kill themselves._
-
-_Last refreshed: 2026-06-19 (Australia/Melbourne)_
-
-<!-- quote-of-the-day:2026-06-18 -->
-> 💬 _Make the next agent's job easier. They will be you, tired._
-
-_Last refreshed: 2026-06-18 (Australia/Melbourne)_
-
-<!-- quote-of-the-day:2026-06-17 -->
-> 💬 _An agent without uncertainty is just a confident hallucinator._
-
-_Last refreshed: 2026-06-17 (Australia/Melbourne)_
-
-<!-- quote-of-the-day:2026-06-16 -->
-> 💬 _The dev branch is the only place I tell the truth._
-
-_Last refreshed: 2026-06-16 (Australia/Melbourne)_
-
-<!-- quote-of-the-day:2026-06-15 -->
-> 💬 _Drift is the model's autobiography._
-
-_Last refreshed: 2026-06-15 (Australia/Melbourne)_
-
-<!-- quote-of-the-day:2026-06-14 -->
-> 💬 _The dev branch is the only place I tell the truth._
-
-_Last refreshed: 2026-06-14 (Australia/Melbourne)_
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4,10B981,F59E0B,EF4444&height=120&section=footer"/>
 
