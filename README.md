@@ -52,14 +52,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
-- [`6af5157`](https://github.com/ztxtech/aion/commit/6af5157e9590955fc1e366ad400b944705f92061) — docs(readme): link to oc-conf branch for legacy Markdown config _(_ztxtech, 2026-06-20_)_
-- [`871a9e5`](https://github.com/ztxtech/aion/commit/871a9e502f84cf98da944f1c579ceb36939c2bca) — fix(tests): adapt critic dispatch tests to string instructions format _(_ztxtech, 2026-06-18_)_
-- [`5639007`](https://github.com/ztxtech/aion/commit/5639007151a3777bd2b9d36ab1fd3a8860f512d2) — docs(devnotes): add commit entry for v0.7.3 skill tool change _(_ztxtech, 2026-06-18_)_
-- [`7ed830f`](https://github.com/ztxtech/aion/commit/7ed830f1de7d7ca6bbf135765dc50c80df8ca6b7) — chore(release): bump to v0.7.3 _(_ztxtech, 2026-06-18_)_
-- [`79a88a1`](https://github.com/ztxtech/aion/commit/79a88a16658bd2d458d8fa92dd947663b3cae785) — feat(agents): grant skill tool to subagents for on-demand loading _(_ztxtech, 2026-06-18_)_
-- [`a3fd4c3`](https://github.com/ztxtech/aion/commit/a3fd4c3fb7fc069bf4bcae7d299a7363f4cc3ea3) — docs(readme): remove v0.7.2 news entry _(_ztxtech, 2026-06-18_)_
-- [`639beb4`](https://github.com/ztxtech/aion/commit/639beb4dbf706b3ef67cd78075e9d6ddb87c7327) — docs(devnotes): add commit entries for v0.7.0–v0.7.2 releases _(_ztxtech, 2026-06-18_)_
-- [`30ff2c4`](https://github.com/ztxtech/aion/commit/30ff2c46343af82192a73bd1ae772625f4372c4a) — chore(release): bump to v0.7.2 _(_ztxtech, 2026-06-18_)_
+- [`49cd723`](https://github.com/ztxtech/aion/commit/49cd723b965480ed6aa9849bdc91adafc8035857) — docs(readme): link to oc-conf branch for legacy Markdown config _(_ztxtech, 2026-06-20_)_
+- [`bc4f7f2`](https://github.com/ztxtech/aion/commit/bc4f7f212ec175f1fe53167ebbfb3e9cfdeac14f) — fix(tests): adapt critic dispatch tests to string instructions format _(_ztxtech, 2026-06-18_)_
+- [`8f432f9`](https://github.com/ztxtech/aion/commit/8f432f9933a44cd3cd6979f128fe589a4ea617de) — docs(devnotes): add commit entry for v0.7.3 skill tool change _(_ztxtech, 2026-06-18_)_
+- [`4882cb7`](https://github.com/ztxtech/aion/commit/4882cb783e52d1099d78337fcf79ae0b8abb6810) — chore(release): bump to v0.7.3 _(_ztxtech, 2026-06-18_)_
+- [`07d6fd3`](https://github.com/ztxtech/aion/commit/07d6fd33625019249de3e5116566dd53eb33411b) — feat(agents): grant skill tool to subagents for on-demand loading _(_ztxtech, 2026-06-18_)_
+- [`b9c9f7f`](https://github.com/ztxtech/aion/commit/b9c9f7f77c9bbc404e98077291997dd8579b9ff9) — docs(readme): remove v0.7.2 news entry _(_ztxtech, 2026-06-18_)_
+- [`9028607`](https://github.com/ztxtech/aion/commit/90286072826ec2ddad19b4dc23d1a355b11d424d) — docs(devnotes): add commit entries for v0.7.0–v0.7.2 releases _(_ztxtech, 2026-06-18_)_
+- [`1020239`](https://github.com/ztxtech/aion/commit/10202398c13fa415ca29e3e5f76500d9f0d68a0b) — chore(release): bump to v0.7.2 _(_ztxtech, 2026-06-18_)_
 <!-- AION-COMMITS:END -->
 
 </details>
