@@ -1712,9 +1712,9 @@
                 
                   <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1860,7 +1860,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 11 Jul 2026, 05:23:01 (timezone Australia/Melbourne) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 11 Jul 2026, 12:22:51 (timezone Australia/Melbourne) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
