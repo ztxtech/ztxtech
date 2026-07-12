@@ -146,10 +146,10 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 (metrics · aion commits · snake · daily quote).*</sub>
 
 <!-- QUOTE-OF-THE-DAY -->
-<!-- quote-of-the-day:2026-07-11 -->
-> 💬 _Stop discipline is the only metric that compounds._
+<!-- quote-of-the-day:2026-07-12 -->
+> 💬 _Time series are 80% assumptions and 20% numerics._
 
-_Last refreshed: 2026-07-11 (Australia/Melbourne)_
+_Last refreshed: 2026-07-12 (Australia/Melbourne)_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4,10B981,F59E0B,EF4444&height=120&section=footer"/>
 
