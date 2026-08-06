@@ -146,10 +146,10 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 (metrics · aion commits · snake · daily quote).*</sub>
 
 <!-- QUOTE-OF-THE-DAY -->
-<!-- quote-of-the-day:2026-08-05 -->
-> 💬 _Reviewers don't kill papers — unclear papers kill themselves._
+<!-- quote-of-the-day:2026-08-06 -->
+> 💬 _Every protocol is a contract against future you._
 
-_Last refreshed: 2026-08-05 (Australia/Melbourne)_
+_Last refreshed: 2026-08-06 (Australia/Melbourne)_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4,10B981,F59E0B,EF4444&height=120&section=footer"/>
 
