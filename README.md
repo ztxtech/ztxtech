@@ -52,6 +52,7 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`d00c570`](https://github.com/ztxtech/aion/commit/d00c5702bef7bf7919b43e3d8bc686933854962a) — feat(harness): ship adaptive component-based AION 1.0.0 _(_ztxtech, 2026-08-07_)_
 - [`b28f54e`](https://github.com/ztxtech/aion/commit/b28f54e193f013e1a29485fb44b72cb08d8ca6e3) — docs(landing): embed AION clinical demo YouTube under Quick Start _(_ztxtech, 2026-06-12_)_
 - [`ef468d9`](https://github.com/ztxtech/aion/commit/ef468d9b9979f4c36ecd1f624d6eb393557a6524) — refactor(medical-demo): hoist slide assets to wrapper dir _(_ztxtech, 2026-06-12_)_
 - [`9e76161`](https://github.com/ztxtech/aion/commit/9e76161b50f52b15f6979f675f923db23d39f342) — feat(medical-demo): re-render overview PNG at 3840x2160 (16:9, 2x DPR) _(_ztxtech, 2026-06-12_)_
@@ -59,7 +60,6 @@ mission:     >-
 - [`9046b06`](https://github.com/ztxtech/aion/commit/9046b0655bae7642d03ed9101e0b20f92262d7dd) — feat(medical-demo): align overview items — drop title period, fixed-width tags _(_ztxtech, 2026-06-12_)_
 - [`acc5e14`](https://github.com/ztxtech/aion/commit/acc5e14bcc4b01b22b06675580563e05cd39e7e8) — feat(medical-demo): tighten overview items — ≤5 words, no bold, single-line _(_ztxtech, 2026-06-12_)_
 - [`0fa2c1c`](https://github.com/ztxtech/aion/commit/0fa2c1c932f2dd15646356196ee006c5da12be71) — feat(medical-demo): simplify overview — three aligned blocks, four items each _(_ztxtech, 2026-06-12_)_
-- [`4b6ac00`](https://github.com/ztxtech/aion/commit/4b6ac0084351d3c5139e82e9a926f662b5497d14) — feat(medical-demo): refresh one-page overview — light theme, stacked blocks, log _(_ztxtech, 2026-06-12_)_
 <!-- AION-COMMITS:END -->
 
 </details>
