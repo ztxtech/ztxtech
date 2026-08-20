@@ -52,6 +52,7 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`75ac542`](https://github.com/ztxtech/aion/commit/75ac5421089a5c51726974c949ff7d57f35f20a9) — fix(website): fix component card grid overlap and add responsive breakpoints _(_ztxtech, 2026-08-20_)_
 - [`c1b6774`](https://github.com/ztxtech/aion/commit/c1b6774166eb21b2f5536e290ae44d1bef89f179) — fix(website): remove layer tags and arrows from component diagram _(_ztxtech, 2026-08-07_)_
 - [`37c4fd8`](https://github.com/ztxtech/aion/commit/37c4fd87b70e0a516c4345635ac58dbb917fbbd0) — docs(readme): add 'Why a Time-Series Harness?' section with pain points _(_ztxtech, 2026-08-07_)_
 - [`9b2a164`](https://github.com/ztxtech/aion/commit/9b2a164b4aa9f70fa3c58cf7b9187b0caa2b8517) — fix(website): restore original paper title across meta and og fields _(_ztxtech, 2026-08-07_)_
@@ -59,7 +60,6 @@ mission:     >-
 - [`b28f54e`](https://github.com/ztxtech/aion/commit/b28f54e193f013e1a29485fb44b72cb08d8ca6e3) — docs(landing): embed AION clinical demo YouTube under Quick Start _(_ztxtech, 2026-06-12_)_
 - [`ef468d9`](https://github.com/ztxtech/aion/commit/ef468d9b9979f4c36ecd1f624d6eb393557a6524) — refactor(medical-demo): hoist slide assets to wrapper dir _(_ztxtech, 2026-06-12_)_
 - [`9e76161`](https://github.com/ztxtech/aion/commit/9e76161b50f52b15f6979f675f923db23d39f342) — feat(medical-demo): re-render overview PNG at 3840x2160 (16:9, 2x DPR) _(_ztxtech, 2026-06-12_)_
-- [`748abf4`](https://github.com/ztxtech/aion/commit/748abf4c83156e98ead22fbd219c3ca15f5b0998) — docs(medical-demo): rewrite overview lede in plain language _(_ztxtech, 2026-06-12_)_
 <!-- AION-COMMITS:END -->
 
 </details>
