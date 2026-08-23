@@ -52,14 +52,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`bbc8982`](https://github.com/ztxtech/aion/commit/bbc89825104f20d8dd69f5a9591e18d9185e68b4) — docs(devnotes): add knowledge base with scored-task feedback-loop note _(_ztxtech, 2026-08-23_)_
+- [`0ceb94b`](https://github.com/ztxtech/aion/commit/0ceb94b82c73d09876347b7b9c83d7376461a27b) — feat(harness): add scored-task feedback loop to governance chain _(_ztxtech, 2026-08-23_)_
 - [`4ba6cee`](https://github.com/ztxtech/aion/commit/4ba6ceebc597a3693d9cc70a07e0a2d49a24db31) — chore(release): bump version to 1.0.1 _(_ztxtech, 2026-08-22_)_
 - [`210ac44`](https://github.com/ztxtech/aion/commit/210ac4461b9a8a3fd2cd29e8eb4f06782c8496a2) — feat(harness): add mandatory task validity audit to governance chain _(_ztxtech, 2026-08-22_)_
 - [`75ac542`](https://github.com/ztxtech/aion/commit/75ac5421089a5c51726974c949ff7d57f35f20a9) — fix(website): fix component card grid overlap and add responsive breakpoints _(_ztxtech, 2026-08-20_)_
 - [`c1b6774`](https://github.com/ztxtech/aion/commit/c1b6774166eb21b2f5536e290ae44d1bef89f179) — fix(website): remove layer tags and arrows from component diagram _(_ztxtech, 2026-08-07_)_
 - [`37c4fd8`](https://github.com/ztxtech/aion/commit/37c4fd87b70e0a516c4345635ac58dbb917fbbd0) — docs(readme): add 'Why a Time-Series Harness?' section with pain points _(_ztxtech, 2026-08-07_)_
 - [`9b2a164`](https://github.com/ztxtech/aion/commit/9b2a164b4aa9f70fa3c58cf7b9187b0caa2b8517) — fix(website): restore original paper title across meta and og fields _(_ztxtech, 2026-08-07_)_
-- [`d00c570`](https://github.com/ztxtech/aion/commit/d00c5702bef7bf7919b43e3d8bc686933854962a) — feat(harness): ship adaptive component-based AION 1.0.0 _(_ztxtech, 2026-08-07_)_
-- [`b28f54e`](https://github.com/ztxtech/aion/commit/b28f54e193f013e1a29485fb44b72cb08d8ca6e3) — docs(landing): embed AION clinical demo YouTube under Quick Start _(_ztxtech, 2026-06-12_)_
 <!-- AION-COMMITS:END -->
 
 </details>
