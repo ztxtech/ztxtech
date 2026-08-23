@@ -52,14 +52,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`8627638`](https://github.com/ztxtech/aion/commit/86276384d31339ae5a6c48995a5f6ed602a8028d) — chore(release): bump version to 1.0.4 _(_ztxtech, 2026-08-23_)_
+- [`68e2913`](https://github.com/ztxtech/aion/commit/68e291314022726806b2d8b5bb1e33fc1f0b8844) — feat(harness): add supervision, metric-sanity and trace gates _(_ztxtech, 2026-08-23_)_
 - [`caefb25`](https://github.com/ztxtech/aion/commit/caefb25cf2ab0bca600caef07bf64455875bb599) — chore(release): bump version to 1.0.3 _(_ztxtech, 2026-08-23_)_
 - [`eec5865`](https://github.com/ztxtech/aion/commit/eec58656561a97c657fae7fdde47cd39ac3fa0ee) — feat(harness): add two-phase score-driven iteration with lock check _(_ztxtech, 2026-08-23_)_
 - [`0ad190d`](https://github.com/ztxtech/aion/commit/0ad190da3542ed43e7816d51edb8457b10911771) — chore(release): add contract version file and bump to 1.0.2 _(_ztxtech, 2026-08-23_)_
 - [`bbc8982`](https://github.com/ztxtech/aion/commit/bbc89825104f20d8dd69f5a9591e18d9185e68b4) — docs(devnotes): add knowledge base with scored-task feedback-loop note _(_ztxtech, 2026-08-23_)_
 - [`0ceb94b`](https://github.com/ztxtech/aion/commit/0ceb94b82c73d09876347b7b9c83d7376461a27b) — feat(harness): add scored-task feedback loop to governance chain _(_ztxtech, 2026-08-23_)_
 - [`4ba6cee`](https://github.com/ztxtech/aion/commit/4ba6ceebc597a3693d9cc70a07e0a2d49a24db31) — chore(release): bump version to 1.0.1 _(_ztxtech, 2026-08-22_)_
-- [`210ac44`](https://github.com/ztxtech/aion/commit/210ac4461b9a8a3fd2cd29e8eb4f06782c8496a2) — feat(harness): add mandatory task validity audit to governance chain _(_ztxtech, 2026-08-22_)_
-- [`75ac542`](https://github.com/ztxtech/aion/commit/75ac5421089a5c51726974c949ff7d57f35f20a9) — fix(website): fix component card grid overlap and add responsive breakpoints _(_ztxtech, 2026-08-20_)_
 <!-- AION-COMMITS:END -->
 
 </details>
