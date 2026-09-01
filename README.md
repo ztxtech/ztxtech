@@ -146,10 +146,10 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 (metrics · aion commits · snake · daily quote).*</sub>
 
 <!-- QUOTE-OF-THE-DAY -->
-<!-- quote-of-the-day:2026-08-31 -->
-> 💬 _If your critic never vetoes, you don't have a critic._
+<!-- quote-of-the-day:2026-09-01 -->
+> 💬 _The dev branch is the only place I tell the truth._
 
-_Last refreshed: 2026-08-31 (Australia/Melbourne)_
+_Last refreshed: 2026-09-01 (Australia/Melbourne)_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4,10B981,F59E0B,EF4444&height=120&section=footer"/>
 
