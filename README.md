@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&height=50&lines=PhD%20%40%20Monash%20IT;Building%20Time-Series%20Harness;Agent%20%C3%97%20Uncertainty%20%C3%97%20Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Graduate%20%40%20UESTC;Building%20Time-Series%20Harness;Agent%20%C3%97%20Uncertainty%20%C3%97%20Time" alt="Typing SVG" />
 
 # 👋 Hi, I'm **Tianxiang Zhan**
 
@@ -22,17 +22,17 @@
 ```yaml
 > whoami
 name:        Tianxiang Zhan
-role:        PhD Candidate
-affiliation: Monash University — Faculty of Information Technology
-location:    Clayton, VIC 🇦🇺
-status:      "Booting up a new research chapter ↓"
+role:        Graduate
+affiliation: University of Electronic Science and Technology of China (UESTC)
+location:    Chengdu, China 🇨🇳
+status:      "Graduate from UESTC ↓"
 former:      M.Eng. @ UESTC (2023–2026) · B.Eng. @ SWU (2019–2023)
 mission:     >-
   Build trustworthy autonomous agents that can reason over, forecast, and act on
   complex temporal evidence — with explicit uncertainty and stop-discipline.
 ```
 
-> 🔭 Now at **Monash IT** as a PhD student, pushing **agentic time-series systems**
+> 🔭 Recently graduated from **UESTC**, pushing **agentic time-series systems**
 > and **uncertainty-aware decision making** further.
 
 ---
@@ -149,7 +149,7 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 <!-- quote-of-the-day:2026-09-27 -->
 > 💬 _Confidence without calibration is just noise with branding._
 
-_Last refreshed: 2026-09-27 (Australia/Melbourne)_
+_Last refreshed: 2026-09-27 (Asia/Shanghai)_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4,10B981,F59E0B,EF4444&height=120&section=footer"/>
 

@@ -41,7 +41,7 @@ jobs:
           block = (
               f"<!-- quote-of-the-day:{today.isoformat()} -->\n"
               f"> 💬 _{quote}_\n\n"
-              f"_Last refreshed: {today.isoformat()} (Australia/Melbourne)_"
+              f"_Last refreshed: {today.isoformat()} (Asia/Shanghai)_"
           )
           pathlib.Path(".github/quote.md").write_text(block)
           readme = pathlib.Path("README.md").read_text()

@@ -28,7 +28,7 @@ jobs:
           user: ztxtech
           template: classic
           base: "header, metadata"
-          config_timezone: Australia/Melbourne
+          config_timezone: Asia/Shanghai
           config_animations: yes
           config_output: svg
           filename: docs/github-metrics.svg
