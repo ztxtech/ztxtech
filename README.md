@@ -146,10 +146,10 @@ GitHub Actions — see <a href="https://github.com/ztxtech/ztxtech/tree/main/.gi
 (metrics · aion commits · snake · daily quote).*</sub>
 
 <!-- QUOTE-OF-THE-DAY -->
-<!-- quote-of-the-day:2026-10-06 -->
-> 💬 _Drift is the model's autobiography._
+<!-- quote-of-the-day:2026-10-07 -->
+> 💬 _If your critic never vetoes, you don't have a critic._
 
-_Last refreshed: 2026-10-06 (Asia/Shanghai)_
+_Last refreshed: 2026-10-07 (Asia/Shanghai)_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4,10B981,F59E0B,EF4444&height=120&section=footer"/>
 
