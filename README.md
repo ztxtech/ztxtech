@@ -52,14 +52,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`49c8132`](https://github.com/ztxtech/aion/commit/49c81321b8412b4de003b251752f165c2acc76ec) — chore: remove token budget and duration cap from goal plugin options _(_ztxtech, 2026-10-11_)_
+- [`c217d8a`](https://github.com/ztxtech/aion/commit/c217d8a9570795336f47c9bf922926b9b9c6d96b) — feat: integrate goal mode with AION harness _(_ztxtech, 2026-10-11_)_
+- [`33635b7`](https://github.com/ztxtech/aion/commit/33635b70c16de0f206dda8fdf6c3c37d31b9d0c5) — feat: adapt AION for OpenCode V2 _(_ztxtech, 2026-10-11_)_
+- [`2bab915`](https://github.com/ztxtech/aion/commit/2bab91568683399580c9a236a3966c9a526caf60) — feat: add root-level AGENTS.md bootstrap pointer _(_ztxtech, 2026-10-11_)_
+- [`500c9df`](https://github.com/ztxtech/aion/commit/500c9dff71709dcb41fc61fb401028870a3f04dd) — feat: adapt AION for OpenCode V2 _(_ztxtech, 2026-10-11_)_
 - [`8627638`](https://github.com/ztxtech/aion/commit/86276384d31339ae5a6c48995a5f6ed602a8028d) — chore(release): bump version to 1.0.4 _(_ztxtech, 2026-08-23_)_
 - [`68e2913`](https://github.com/ztxtech/aion/commit/68e291314022726806b2d8b5bb1e33fc1f0b8844) — feat(harness): add supervision, metric-sanity and trace gates _(_ztxtech, 2026-08-23_)_
 - [`caefb25`](https://github.com/ztxtech/aion/commit/caefb25cf2ab0bca600caef07bf64455875bb599) — chore(release): bump version to 1.0.3 _(_ztxtech, 2026-08-23_)_
-- [`eec5865`](https://github.com/ztxtech/aion/commit/eec58656561a97c657fae7fdde47cd39ac3fa0ee) — feat(harness): add two-phase score-driven iteration with lock check _(_ztxtech, 2026-08-23_)_
-- [`0ad190d`](https://github.com/ztxtech/aion/commit/0ad190da3542ed43e7816d51edb8457b10911771) — chore(release): add contract version file and bump to 1.0.2 _(_ztxtech, 2026-08-23_)_
-- [`bbc8982`](https://github.com/ztxtech/aion/commit/bbc89825104f20d8dd69f5a9591e18d9185e68b4) — docs(devnotes): add knowledge base with scored-task feedback-loop note _(_ztxtech, 2026-08-23_)_
-- [`0ceb94b`](https://github.com/ztxtech/aion/commit/0ceb94b82c73d09876347b7b9c83d7376461a27b) — feat(harness): add scored-task feedback loop to governance chain _(_ztxtech, 2026-08-23_)_
-- [`4ba6cee`](https://github.com/ztxtech/aion/commit/4ba6ceebc597a3693d9cc70a07e0a2d49a24db31) — chore(release): bump version to 1.0.1 _(_ztxtech, 2026-08-22_)_
 <!-- AION-COMMITS:END -->
 
 </details>
