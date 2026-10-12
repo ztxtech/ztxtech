@@ -52,14 +52,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`b0ca149`](https://github.com/ztxtech/aion/commit/b0ca149347650e7064bf65c7a5b200268fc33744) — fix: align gap report example with threshold _(_ztxtech, 2026-10-12_)_
+- [`e42e33c`](https://github.com/ztxtech/aion/commit/e42e33ce1df4b148f4ac32f479ef515bd3776974) — fix: align goal and self-purify contracts _(_ztxtech, 2026-10-12_)_
+- [`027d0ac`](https://github.com/ztxtech/aion/commit/027d0ac595a36e38d028234663be51f7fc36f400) — fix: severity-weighted adaptive escalation + YAML syntax cleanup _(_ztxtech, 2026-10-12_)_
+- [`3515061`](https://github.com/ztxtech/aion/commit/3515061c5be1d298c7ec17ec88a8699b17fcbe9a) — feat: engineer the self-purification RSI loop _(_ztxtech, 2026-10-12_)_
 - [`49c8132`](https://github.com/ztxtech/aion/commit/49c81321b8412b4de003b251752f165c2acc76ec) — chore: remove token budget and duration cap from goal plugin options _(_ztxtech, 2026-10-11_)_
 - [`c217d8a`](https://github.com/ztxtech/aion/commit/c217d8a9570795336f47c9bf922926b9b9c6d96b) — feat: integrate goal mode with AION harness _(_ztxtech, 2026-10-11_)_
 - [`33635b7`](https://github.com/ztxtech/aion/commit/33635b70c16de0f206dda8fdf6c3c37d31b9d0c5) — feat: adapt AION for OpenCode V2 _(_ztxtech, 2026-10-11_)_
 - [`2bab915`](https://github.com/ztxtech/aion/commit/2bab91568683399580c9a236a3966c9a526caf60) — feat: add root-level AGENTS.md bootstrap pointer _(_ztxtech, 2026-10-11_)_
-- [`500c9df`](https://github.com/ztxtech/aion/commit/500c9dff71709dcb41fc61fb401028870a3f04dd) — feat: adapt AION for OpenCode V2 _(_ztxtech, 2026-10-11_)_
-- [`8627638`](https://github.com/ztxtech/aion/commit/86276384d31339ae5a6c48995a5f6ed602a8028d) — chore(release): bump version to 1.0.4 _(_ztxtech, 2026-08-23_)_
-- [`68e2913`](https://github.com/ztxtech/aion/commit/68e291314022726806b2d8b5bb1e33fc1f0b8844) — feat(harness): add supervision, metric-sanity and trace gates _(_ztxtech, 2026-08-23_)_
-- [`caefb25`](https://github.com/ztxtech/aion/commit/caefb25cf2ab0bca600caef07bf64455875bb599) — chore(release): bump version to 1.0.3 _(_ztxtech, 2026-08-23_)_
 <!-- AION-COMMITS:END -->
 
 </details>
