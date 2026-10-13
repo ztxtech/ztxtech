@@ -52,14 +52,14 @@ mission:     >-
 <br>
 
 <!-- AION-COMMITS:START -->
+- [`1e202be`](https://github.com/ztxtech/aion/commit/1e202be7cecd283d8840803f18caaf31d20a8829) — feat: persist AION task state and resume session loops _(_ztxtech, 2026-10-13_)_
+- [`ed8fc5c`](https://github.com/ztxtech/aion/commit/ed8fc5c1b0ddf0f439b27173aa1ec12830248f35) — fix: scope AION hooks to AION agents _(_ztxtech, 2026-10-13_)_
+- [`270a762`](https://github.com/ztxtech/aion/commit/270a762fc7ed52e68996105e8d27c665b3cbc315) — fix: prioritize active tasks on AION board _(_ztxtech, 2026-10-13_)_
 - [`1709cbf`](https://github.com/ztxtech/aion/commit/1709cbf97a007ecb042c76a8521667c783a139b9) — feat: adopt OpenCode V2 plugin on master _(_ztxtech, 2026-10-12_)_
 - [`b0ca149`](https://github.com/ztxtech/aion/commit/b0ca149347650e7064bf65c7a5b200268fc33744) — fix: align gap report example with threshold _(_ztxtech, 2026-10-12_)_
 - [`e42e33c`](https://github.com/ztxtech/aion/commit/e42e33ce1df4b148f4ac32f479ef515bd3776974) — fix: align goal and self-purify contracts _(_ztxtech, 2026-10-12_)_
 - [`027d0ac`](https://github.com/ztxtech/aion/commit/027d0ac595a36e38d028234663be51f7fc36f400) — fix: severity-weighted adaptive escalation + YAML syntax cleanup _(_ztxtech, 2026-10-12_)_
 - [`3515061`](https://github.com/ztxtech/aion/commit/3515061c5be1d298c7ec17ec88a8699b17fcbe9a) — feat: engineer the self-purification RSI loop _(_ztxtech, 2026-10-12_)_
-- [`49c8132`](https://github.com/ztxtech/aion/commit/49c81321b8412b4de003b251752f165c2acc76ec) — chore: remove token budget and duration cap from goal plugin options _(_ztxtech, 2026-10-11_)_
-- [`c217d8a`](https://github.com/ztxtech/aion/commit/c217d8a9570795336f47c9bf922926b9b9c6d96b) — feat: integrate goal mode with AION harness _(_ztxtech, 2026-10-11_)_
-- [`33635b7`](https://github.com/ztxtech/aion/commit/33635b70c16de0f206dda8fdf6c3c37d31b9d0c5) — feat: adapt AION for OpenCode V2 _(_ztxtech, 2026-10-11_)_
 <!-- AION-COMMITS:END -->
 
 </details>
